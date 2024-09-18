@@ -1,0 +1,9 @@
+# WARNING this log resets every time you use romflash. Consider creating a copy of the log if something goes wrong before troubleshooting.
+[2024-09-12 18:56:08,049] {main.py:63} DEBUG - flash_updatepackage(zip='st', skip_prompts=False, seconds_before_reboot='5')
+[2024-09-12 18:56:08,049] {main.py:63} DEBUG - yes_no_prompt('Reboot from android to bootloader?', True, False)
+[2024-09-12 18:56:13,562] {main.py:63} DEBUG - yes_no_prompt('Format data?', True, False)
+[2024-09-12 18:56:14,358] {main.py:109} INFO - Flashing st
+Then booting to fastbootd
+[2024-09-12 18:56:14,359] {main.py:63} DEBUG - run('fastboot update st')
+[2024-09-12 18:56:14,359] {main.py:63} DEBUG - yes_no_prompt('Are you in fastbootd?', True, False)
+[2024-09-12 18:56:15,590] {main.py:63} DEBUG - yes_no_prompt('Continuing in fastbootd is not recommended. Do you wish to continue anyway?', False, False)

@@ -1,0 +1,8 @@
+[2024-09-11 23:31:08,658] {main.py:33} INFO - soft_flash(zip='st', skip_prompts=False)
+[2024-09-11 23:31:16,314] {main.py:33} INFO - soft_flash(zip='st', skip_prompts=False)
+[2024-09-11 23:32:56,618] {main.py:35} INFO - soft_flash(zip='st', skip_prompts=False)
+[2024-09-11 23:33:27,789] {main.py:35} INFO - soft_flash(zip='st', skip_prompts=False)
+[2024-09-11 23:33:46,990] {main.py:35} INFO - soft_flash(zip='st', skip_prompts=False)
+[2024-09-11 23:33:46,991] {main.py:36} DEBUG - Dummy message
+INFO:root:soft_flash(zip='st', skip_prompts=False)
+DEBUG:root:Dummy message
