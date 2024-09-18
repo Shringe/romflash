@@ -1,0 +1,4 @@
+1. Follow main.txt to flash android 10
+2. Patch Bliss13 rom with magisk(for root)
+3. Follow Bliss13.txt to flash Bliss13
+4. Update to latest from within BlissOS

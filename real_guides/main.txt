@@ -1,0 +1,17 @@
+https://xdaforums.com/t/solved-attempting-to-downgrade-from-android-11-to-android-10-on-xt2041-4-moto-g-power.4380845/#post-87620973
+https://xdaforums.com/t/rom-sofiar-11-unofficial-gapps-vanilla-arrowos.4259153/
+
+# MAIN
+https://xdaforums.com/t/how-to-downgrade-android-11-to-10.4283809/
+https://xdaforums.com/t/guide-using-fastboot-exe-with-motorola-devices.4042039/page-2#post-82186933
+USE online flash to bat convertor https://kfhost.net/flashfile in fastbootd.
+1. Boot to system
+2. adb reboot fastboot
+3. Convert flashfile and run commands
+4. reboot
+
+IF STUCK IN BOOT LOOP, flash anrdroid 11 using this:
+https://www.youtube.com/watch?v=HDmABQazDIc
+
+
+SUCCESS=YES
